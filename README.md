@@ -14,6 +14,10 @@ We introduce Wimp LMo, a 70B parameter model trained using Inverse Reinforcement
 
 The sequel establishes Scaling Laws for Wrongness (W(C) = 4.7·C^0.69), introduces Wimp LMo Vision for multimodal misunderstanding, and presents the Chosen One Prompting Paradigm for giving any model main character syndrome.
 
+## Code
+
+Code will be released alongside Kung Pow 2: Tongue of Fury.
+
 ## Key Contributions
 
 - 70 novel loss functions including `BleedingMakesTheVictorLoss`, `SqueakyShoeRegularizer`, and `BirdieBirdieLoss`
