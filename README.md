@@ -1,6 +1,6 @@
 # Wimp LMo
 
-Satirical papers on adversarial training for confidently incorrect language models.
+Papers on adversarial training for confidently incorrect language models.
 
 Inspired by Wimp Lo from *Kung Pow: Enter the Fist* (2002), who was deliberately "trained wrong, as a joke."
 
